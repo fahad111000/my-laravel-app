@@ -3,5 +3,5 @@
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return "hello world!!!!!, welcome back fahad khan the web dev and programmer!";
+    return "This is my first aravel app";
 });
